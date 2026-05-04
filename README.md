@@ -2,6 +2,10 @@
 
 This is a Netflix-inspired UI clone built to practice frontend development.
 
+# Username & Password
+At present, the authentication mechanism lacks input validation for both username and password fields. Consequently,
+the system accepts arbitrary input and permits access without verifying user credentials.
+
 ## 🚀 Features
 - Homepage UI similar to Netflix
 - Responsive design
