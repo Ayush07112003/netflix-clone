@@ -17,6 +17,11 @@ the system accepts arbitrary input and permits access without verifying user cre
 - CSS
 - JavaScript (or React)
 
+# Link to Run
+
+https://ayush07112003.github.io/netflix-clone/
+
+
 ## 📸 Demo
 
 <img width="1886" height="842" alt="Screenshot 2024-08-29 202138" src="https://github.com/user-attachments/assets/4537e3f6-36cb-478f-acd5-ef70d7f1ca49" />
